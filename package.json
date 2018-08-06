@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/insetavijit/wSeed--theme/issues"
   },
-  "homepage": "https://github.com/insetavijit/wSeed--theme#readme"
+  "homepage": "https://github.com/insetavijit/wSeed--theme#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "pump": "^3.0.0"
+  }
 }
